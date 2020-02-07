@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025373570154",
+    "firebase_url": "https://fir-e142c.firebaseio.com",
+    "project_id": "fir-e142c",
+    "storage_bucket": "fir-e142c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025373570154:android:de9152e8126d1fa059f613",
+        "android_client_info": {
+          "package_name": "com.remoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025373570154-e14u04tad7o32e4d4dar2r3maem2kn5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPtfAWosOU0blOE5IbSX1aQ-_hMNbUmCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025373570154-e14u04tad7o32e4d4dar2r3maem2kn5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
